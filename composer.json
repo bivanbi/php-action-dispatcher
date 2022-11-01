@@ -1,6 +1,6 @@
 {
-  "name": "kign.org/php-statemachine",
-  "description": "Simple statemachine for PHP",
+  "name": "kign.org/php-action-dispatcher",
+  "description": "Simple action dispatcher/receiver for PHP",
   "minimum-stability": "alpha",
   "license": "proprietary",
   "authors": [
